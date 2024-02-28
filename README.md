@@ -1,16 +1,16 @@
-### Ejercicios de Python
+## Ejercicios de Python :snake:
 
 ![Logo de Python](https://i.blogs.es/1d8a5b/python1/1366_2000.jpg)
 ---
 
-**Autor:** Cristina
+**Autor:** Cristina de Andrés 
 
 **Fecha:** 28/02/2024
 
-**Descripción:**
-Este proyecto contiene una serie de ejercicios de Python vistos en clase. Cada ejercicio aborda diferentes conceptos y técnicas de programación en Python, desde conceptos básicos hasta temas más avanzados. El objetivo de estos ejercicios es proporcionar práctica y reforzar el aprendizaje de Python, permitiendo a los estudiantes familiarizarse con la sintaxis del lenguaje y mejorar sus habilidades de programación.
+### Descripción 📝:
+Este proyecto contiene una serie de **ejercicios resueltos** de Python, realizados durante el módulo 1 del bootcamp de *Data Analytics* de Upgrade Hub. Cada ejemplo aborda diferentes contenidos de programación en Python, desde lo más básico hasta conceptos más avanzados. El objetivo de estos ejercicios es poder practicar, repasar y mejorar tus habilidades de programación en Python.:rocket:
 
-**Contenido:**
+### Contenido 📋:
 - Tipos de datos
     - Números
     - Cadenas
