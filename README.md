@@ -1,4 +1,4 @@
-### Clase 2: Ejercicios de Python
+### Ejercicios de Python
 
 ![Logo de Python](https://i.blogs.es/1d8a5b/python1/1366_2000.jpg)
 ---
